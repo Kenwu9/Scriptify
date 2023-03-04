@@ -1,0 +1,12 @@
+.top-banner {
+    grid-column: 2 / 4;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #7796ea;
+    color: #fff;
+  }
+
+  
